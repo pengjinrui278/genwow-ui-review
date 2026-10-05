@@ -2,6 +2,8 @@
 
 这是 [AI-camera](https://github.com/chiiiiiiing/AI-camera) 项目导出的**静态 UI 预览**，包含 23 个可独立打开的页面和演示图片。它不是 Android App，也不会访问真实相机、账号或社区服务。
 
+已上线的固定网址：[https://pengjinrui278.github.io/genwow-ui-review/](https://pengjinrui278.github.io/genwow-ui-review/)。
+
 ## Vercel 部署
 
 在 Vercel 导入此仓库，Framework Preset 选择 **Other**，Root Directory 保持仓库根目录。`vercel.json` 已指定静态输出目录为 `.`，无需构建命令。生产分支设为 `main`；之后此仓库每次推送都会更新固定生产网址。
