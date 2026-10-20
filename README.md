@@ -1,6 +1,17 @@
 # 帧好 GenWow · UI 验收站
 
-这是 [AI-camera](https://github.com/chiiiiiiing/AI-camera) 项目导出的**静态 UI 预览**，包含 23 个可独立打开的页面和演示图片。它不是 Android App，也不会访问真实相机、账号或社区服务。
+## 评审体验
+
+- **推荐分享：[产品体验入口](https://pengjinrui278.github.io/genwow-ui-review/experience.html)**（下载、安装步骤、网页预览）
+- [直接下载 Android v5 APK](https://github.com/chiiiiiiing/AI-camera/releases/download/v0.5.0-demo.20261020/GenWow-v5-debug.apk)
+- [在线界面预览](https://pengjinrui278.github.io/genwow-ui-review/)
+- [App 源码与版本说明](https://github.com/chiiiiiiing/AI-camera)
+
+帧好GenWow，面向摄影新手的AI构图辅助相机，实时引导取景，轻松拍出好构图。
+
+Android 安装包支持 Android 7.0 及以上 ARM 手机，约 92 MB。网页是交互示意，真实 AI 与拍摄功能请安装 APK；iPhone 只能浏览网页。
+
+这是 [AI-camera](https://github.com/chiiiiiiing/AI-camera) 项目导出的**静态 UI 预览**，包含 24 个可独立打开的预览页面、一个产品体验入口及演示图片。v5 已同步自动场景识别、连续取景引导、圈内保持一秒自动拍摄示意，以及单行相机控制栏。它不是 Android App，也不会访问真实相机、账号或社区服务。
 
 已上线的固定网址：[https://pengjinrui278.github.io/genwow-ui-review/](https://pengjinrui278.github.io/genwow-ui-review/)。
 
